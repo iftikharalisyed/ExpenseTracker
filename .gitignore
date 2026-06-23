@@ -1,8 +1,9 @@
+# Spendly — project-specific
+spendly.db
 expense_tracker.db
-*.pyc
-*.pyo
 .DS_Store
 .claude/plans/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

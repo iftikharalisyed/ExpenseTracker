@@ -1,2 +1,4 @@
-# Expense_Tracker_Basic
-Expense_Tracker_Basic
+# ExpenseTracker (Spendly)
+
+A personal expense tracker web app built with Flask + SQLite + Jinja2.
+
